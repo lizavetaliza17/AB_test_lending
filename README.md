@@ -97,12 +97,12 @@ stat, p_value = ttest_ind(conv_test, conv_control)
 
 ## 🛠 Стек технологий
 
-![Python]
-![Jupyter]
-![pandas]
-![scipy]
-![matplotlib]
-![seaborn]
+[Python]
+[Jupyter]
+[pandas]
+[scipy]
+[matplotlib]
+[seaborn]
 
 ```
 pandas      — загрузка и обработка данных
