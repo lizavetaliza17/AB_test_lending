@@ -97,12 +97,12 @@ stat, p_value = ttest_ind(conv_test, conv_control)
 
 ## 🛠 Стек технологий
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas)
-![scipy](https://img.shields.io/badge/scipy-stats-8CAAE6?logo=scipy)
-![matplotlib](https://img.shields.io/badge/matplotlib-3.x-11557C)
-![seaborn](https://img.shields.io/badge/seaborn-0.x-4C72B0)
+![Python]
+![Jupyter]
+![pandas]
+![scipy]
+![matplotlib]
+![seaborn]
 
 ```
 pandas      — загрузка и обработка данных
@@ -111,28 +111,4 @@ matplotlib  — визуализация динамики конверсии п�
 seaborn     — распределение средних конверсий по дням
 ```
 
----
 
-## 🚀 Запуск
-
-1. Клонируй репозиторий:
-```bash
-git clone https://github.com/username/ab_test_debit_card.git
-```
-
-2. Установи зависимости:
-```bash
-pip install pandas scipy matplotlib seaborn jupyter
-```
-
-3. Запусти Jupyter Notebook:
-```bash
-jupyter notebook ab_test_analysis.ipynb
-```
-
----
-
-## 👤 Автор
-
-**Liza** — Junior Data Analyst  
-Проект выполнен в рамках обучения аналитике данных
